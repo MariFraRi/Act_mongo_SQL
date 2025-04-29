@@ -1,8 +1,6 @@
 
 ---
 
-## 📄 Modelo para `reflexion.pdf` (contenido sugerido)
-```markdown
 # Reflexión Final: Comparación MongoDB vs PostgreSQL
 
 ## ¿Qué diferencias encontraste?
@@ -19,3 +17,5 @@ Aprendí a trabajar con dos motores de bases de datos distintos, a hacer dashboa
 
 ## ¿Cuál prefieres?
 Para prototipos rápidos o datos no estructurados, prefiero MongoDB. Para proyectos más estables o con integridad referencial, prefiero PostgreSQL.
+
+```markdown
