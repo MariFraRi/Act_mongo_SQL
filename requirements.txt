@@ -1,0 +1,6 @@
+streamlit
+pymongo
+sqlalchemy
+psycopg2
+pandas
+plotly
