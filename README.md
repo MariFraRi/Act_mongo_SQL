@@ -11,10 +11,3 @@ Este proyecto carga un dataset en MongoDB y PostgreSQL, realiza consultas básic
 - `dashboard_mongo.py`: Dashboard de visualización basado en MongoDB.
 - `dashboard_postgres.py`: Dashboard de visualización basado en PostgreSQL.
 
-## Instrucciones para correr localmente
-
-1. Crear un entorno virtual:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # En Linux o Mac
-   .\venv\Scripts\activate    # En Windows
